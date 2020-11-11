@@ -58,14 +58,6 @@ print("u test ")
 
 print("a sada ga ja menjam")
 
-o=3
-u=6
-d=o+u
-print(d)
-print("neko drugi je menjao nesto")
-a=1
-b=9
-c=a+b
 
 #root=dom.childNodes
 #print (root)
