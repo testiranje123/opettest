@@ -56,12 +56,20 @@ print(ime.childNodes[0].nodeValue)
 
 print("u test ")
 
+<<<<<<< HEAD
 print("a sada ga ja menjam")
 
 o=3
 u=6
 d=o+u
 print(d)
+=======
+print("neko drugi je menjao nesto")
+a=1
+b=9
+c=a+b
+print(c)
+>>>>>>> ef2b32a41311e59548f2159187748198941b8772
 
 #root=dom.childNodes
 #print (root)
