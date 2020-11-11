@@ -66,7 +66,6 @@ print("neko drugi je menjao nesto")
 a=1
 b=9
 c=a+b
-print(c)
 
 #root=dom.childNodes
 #print (root)
