@@ -54,7 +54,7 @@ print(ime.nodeName)
 print(ime.childNodes[0])
 print(ime.childNodes[0].nodeValue)
 
-print("u test brancku ")
+print("u test ")
 
 
 #root=dom.childNodes
